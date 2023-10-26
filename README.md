@@ -1,2 +1,3 @@
-# box
-Box datatypes, powered by Vlang
+# Box
+
+Box data types, powered by Vlang

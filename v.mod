@@ -1,7 +1,7 @@
 Module {
 	name: 'box'
-	description: 'Box datatypes'
-	version: '1.0.0'
+	description: 'Box data types'
+	version: '1.0.1'
 	license: 'MIT'
 	dependencies: []
 }
